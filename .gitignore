@@ -27,3 +27,7 @@ yarn-error.log*
 *.sln
 *.sw?
 .DS_Store
+
+# Project notes and AI declarations (not to be pushed to GitHub)
+AI_USAGE.md
+PROJECT_NOTES.md
